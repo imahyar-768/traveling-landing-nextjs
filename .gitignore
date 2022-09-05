@@ -6,9 +6,9 @@
 .pnp.js
 
 # db
-/prisma/dev.db
-/prisma/dev.db-journal
-/prisma/migrations
+dev.db
+dev.db-journal
+/migrations
 
 # testing
 /coverage
